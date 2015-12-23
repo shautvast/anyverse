@@ -1,0 +1,23 @@
+{
+  "name": "AnyVerse",
+  "version": "0.1.0",
+  "description": "Editable Application Version page for devs/ops",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
