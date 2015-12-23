@@ -4,6 +4,7 @@ AnyVerse is a small wiki based on javascript (node, angular) that is useful for 
 * save button or ctrl-s to save
 * limited wiki markup (check out *..* and !..!)
 * currently supports only one table on one page
+* no security
 
 tech:
 * html and css using bootstrap
