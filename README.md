@@ -1,2 +1,2 @@
 # anyverse
-AnyVerse is a wiki based on javascript (node, angular) that is useful for dashboards
+AnyVerse is a small wiki based on javascript (node, angular) that is useful for dashboards
